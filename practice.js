@@ -29,13 +29,13 @@ function sumTwoHighestNumsInArray(arrayOfNums) {
     // * Sort from high to low?
     // @link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
     const sortedNums = arrayOfNums.sort(compareNumbers);
-    console.log('sortedNums', sortedNums);
+    // console.log('sortedNums', sortedNums);
 
     // * Assign highest nums to vars.
     highestNum1 = sortedNums[0];
     highestNum2 = sortedNums[1];
-    console.log('highestNum1', highestNum1);
-    console.log('highestNum2', highestNum2);
+    // console.log('highestNum1', highestNum1);
+    // console.log('highestNum2', highestNum2);
 
     // * Add our two highest numbers together
     sum = highestNum1 + highestNum2;
