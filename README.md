@@ -1,11 +1,13 @@
 # Lighthouse Labs | The Dev Workflow
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-the-dev-workflow/tree/2023-10-19-web-flex-day-16october2023) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+
 * [X] Introduction
 * [X] Curriculum Overview
 * [X] Approach to Lectures
 * [X] Tools of the Trade
 * [X] Version Control
-* [ ] Incremental Development
+* [X] Incremental Development
 
 ## Welcome to Lighthouse Labs
 
