@@ -7,10 +7,15 @@
     // * Placeholder variables for 2 highest numbers    
     // * Sort from high to low?
     // * Add our two highest numbers together
-
-
+  
+    // [1, 2, 5, 10, 3, 1, 2]
+    // [2, 1, 5, 10, 3, 1, 2]
+    // (functions can be passed around as a variable! thank you JS!)
 const compareNumbers = function(num1, num2) {
-    return num2 - num1;
+    /**
+     * You should return -1, 0, +1
+     */
+    return num2 - num1; // 1
 };
 
 /**
